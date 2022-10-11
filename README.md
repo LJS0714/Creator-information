@@ -8,5 +8,3 @@ SIA digitalart programming testing repository
 ## Contacts
 + dlfud0714@gmail.com
 + instagram @jisunnyday7
-
-## Read More
