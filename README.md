@@ -1,5 +1,6 @@
 # LetsGoHome
 SIA digitalart programming testing repository
 
-# creator
+## Creator
 *Lee Jisun
+*dlfud0714@gmail.com
