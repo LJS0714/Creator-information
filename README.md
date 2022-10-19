@@ -1,4 +1,4 @@
-# LetsGoHome
+# Creator information
 SIA digitalart programming testing repository
 
 ## Creator
